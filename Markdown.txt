@@ -1,0 +1,23 @@
+
+Tableu link - https://public.tableau.com/shared/7TXB2H8M3?:display_count=n&:origin=viz_share_link
+
+
+Geographical Sales Distribution:
+
+- Examining the annual quantity of orders, the United States consistently leads in sales, followed by Spain, France, Australia, and the United Kingdom. These countries emerge as the top performers in terms of geographical sales distribution.
+
+Employee Performance by Sales:
+
+- A meticulous assessment of employee performance, considering office and country variations, indicates that the USA boasts the highest number of top-performing employees. France, Australia, and the UK also exhibit notable contributions to overall sales performance.
+
+Product Line Contribution to Revenue:
+
+- Classic and vintage cars emerge as pivotal contributors to revenue, driven by both their higher pricing and substantial order quantities. These product lines play a crucial role in shaping the financial landscape of the business.
+
+Customer Order Patterns:
+
+- Delving into customer order patterns per month, a clear trend emerges, with November standing out as the peak month for customer orders. This insight suggests a strategic opportunity to capitalize on heightened consumer activity during this period.
+
+Seasonal Product Sales:
+
+- The analysis of product seasonality across various product lines underscores a consistent pattern, with all categories experiencing an upswing in sales during November. This shared seasonal trend highlights the importance of aligning marketing and inventory strategies to maximize sales during this key period.
