@@ -1,0 +1,10 @@
+https://public.tableau.com/app/profile/patricia.saez/viz/labTableauII/Story1?publish=yes
+
+In this project it has been studied:
+1- stock situation:
+	1.2 - per quantity of units in ranges of prices
+	1.2- calculating the cost (cost per unit * qty of units in stock) per city
+2- the sales evolution:
+	2.1-number of orders per country and total amount
+	2.2- the evolution based on the payment date of the 5 top countries and its trend . All have a positive trend, except France.
+3- the top 10 empoloyees and customers based on the amount sold /purchased
