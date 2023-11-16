@@ -1,3 +1,6 @@
+# Overview: Data-Driven Decision Making through Interactive Dashboard Analysis
+
+The objective of this project was to harness the power of data visualization to drive strategic business decisions. By aggregating sales and order data into a comprehensive Tableau dashboard, we aimed to uncover hidden patterns, trends, and insights that could inform future business initiatives.
 
 ## Total Sales by Country
 
@@ -24,6 +27,8 @@ The area graph "Total Orders Product Lines by Month" reveals a seasonal pattern 
 * The lower sales of Planes, Trains, and Ships may require a strategic review to determine if these lines should be expanded or potentially reduced based on profitability.
 
 This analysis indicates where the business is currently successful and areas where strategic decisions could lead to improved performance. Understanding the reasons behind the data could further enhance decision-making, such as exploring why certain countries have lower sales and what marketing efforts could increase the visibility and demand for the less popular product lines.
+
+![image](https://github.com/Estherkii/lab-tableau-II/assets/123992666/10c2651b-517c-46f8-92d2-cb8aaa1abf1d)
 
 
 Dashboard: https://public.tableau.com/app/profile/esther.tirado.martinez/viz/lab-tableau-II-products/Products 
